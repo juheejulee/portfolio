@@ -533,14 +533,18 @@ img {
 }
 
 .skills__css {
-    width: 70%;
+    width: 80%;
 }
 
 .skills__javascript {
-    width: 50%;
+    width: 80%;
 }
 
-.skills__wordpress {
+.skills__angular {
+    width: 60%;
+}
+
+.skills__jquery {
     width: 70%;
 }
 
@@ -548,14 +552,18 @@ img {
     width: 50%;
 }
 
-
-.skills__php {
-    width: 50%;
+.skills__nodejs {
+    width: 60%;
 }
 
 
-.skills__swift {
-    width: 50%;
+.skills__php {
+    width: 70%;
+}
+
+
+.skills__java {
+    width: 60%;
 }
 
 
